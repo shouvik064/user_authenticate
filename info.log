@@ -1,0 +1,58 @@
+INFO 2021-06-14 17:27:53,725 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:28:41,301 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:28:43,153 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:29:04,524 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:29:06,148 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:30:16,040 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:30:42,544 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:30:44,421 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:30:55,291 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:32:40,050 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/urls.py changed, reloading.
+INFO 2021-06-14 17:32:42,008 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:32:55,070 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/urls.py changed, reloading.
+INFO 2021-06-14 17:32:56,920 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:34:45,940 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:34:49,007 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:40:28,168 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:45:20,468 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:46:56,959 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/models.py changed, reloading.
+INFO 2021-06-14 17:46:59,345 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:47:33,280 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/models.py changed, reloading.
+INFO 2021-06-14 17:47:35,330 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:48:01,859 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/models.py changed, reloading.
+INFO 2021-06-14 17:48:03,576 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:49:02,510 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 17:49:04,678 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:49:42,752 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/admin.py changed, reloading.
+INFO 2021-06-14 17:49:44,750 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:52:22,277 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/serializers.py changed, reloading.
+INFO 2021-06-14 17:52:24,140 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:52:32,766 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:53:08,476 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/views.py changed, reloading.
+INFO 2021-06-14 17:53:10,330 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 17:53:50,710 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:00:53,650 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/myapp/serializers.py changed, reloading.
+INFO 2021-06-14 18:00:55,632 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:01:28,390 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:02:02,410 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/authsetup.py changed, reloading.
+INFO 2021-06-14 18:02:04,250 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:02:22,750 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/allfunctions.py changed, reloading.
+INFO 2021-06-14 18:02:24,621 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:02:38,443 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/allfunctions.py changed, reloading.
+INFO 2021-06-14 18:02:40,437 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:02:47,038 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/allfunctions.py changed, reloading.
+INFO 2021-06-14 18:02:48,806 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:02:57,345 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/allfunctions.py changed, reloading.
+INFO 2021-06-14 18:02:59,107 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:03:11,028 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/urls.py changed, reloading.
+INFO 2021-06-14 18:03:12,969 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:03:21,871 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:09:01,099 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:09:13,531 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 18:09:15,730 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:11:23,491 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/settings.py changed, reloading.
+INFO 2021-06-14 18:11:25,610 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:28:03,324 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/BWM/urls.py changed, reloading.
+INFO 2021-06-14 18:28:08,339 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
+INFO 2021-06-14 18:28:50,111 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 217 /var/www/html/django_project/common/allfunctions.py changed, reloading.
+INFO 2021-06-14 18:28:52,011 /var/www/html/django_project/env/lib/python3.6/site-packages/django/utils/autoreload.py 597 Watching for file changes with StatReloader
